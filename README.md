@@ -24,13 +24,6 @@ A simple command-line program to book, view and cancel train tickets for multipl
 - View a ticket only with the correct Ticket ID and password
 - Cancel a ticket only with the correct Ticket ID and password
 
-### How to run
-
-```
-cd train-ticket
-python ticket.py
-```
-
 ### Menu
 
 ```
